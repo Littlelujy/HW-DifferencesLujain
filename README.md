@@ -7,7 +7,7 @@ I threw a bunch of things at you today. Now I want you to establish your workflo
 I would like you to use the syntax examples from the notebooks and the program files to compare the derivatives and second derivatives of the functions and some data. I want you to 
 <ol>
 <li> Modify *Der.m* and *myder.py* to include higher order methods for taking the derivatives as listed in the notes on Blackboard.  </li>
-<li> Write a program or a notebook (or modify an existing one) that plots the $\sin^2{\frac{1}{x(2-x)}}$, its derivative   </li>
-<li>   </li>
+<li> Write a program or a notebook (or modify an existing one) that plots the $\sin^2{\frac{1}{x(2-x)}}$, its derivative, and its second derivative.   </li>
+<li>   Write a program or a notebook (or modify an existing one) that plots the data (in the *derdata.mat* file), its derivative, and its second derivative. </li>
 </ol>
 
